@@ -51,7 +51,7 @@ Check out my repositories to explore my work!
 
 ## 📫 Let's Connect
 
-- GitHub: [@YOUR-GITHUB-USERNAME](https://github.com/YAHYA_JD)
+- GitHub: https://github.com/YAHYA_JD
 
 ---
 
